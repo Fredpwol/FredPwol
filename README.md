@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredrick Pwol</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria with the passion for solving problems.</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria with a passion for solving problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpwol" alt="fredpwol" /> </p>
 
