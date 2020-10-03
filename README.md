@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpwol" alt="fredpwol" /> </p>
 
-- 🔭 I’m currently working on [Pygnet](https://github.com/Fredpwol/pygnet)
+- 🔭 I’m currently working on [graphnet](https://github.com/Fredpwol/graphnet)
 
 - 🌱 I’m currently learning **TypeScript, C++, React, Node.js, Tensorflow, MongoDB**
 
