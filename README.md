@@ -5,4 +5,3 @@
 - 📫 Send me a email at **fredpwol@gmail.com** to discuss I'm open to collabrate or hire.
 - 📝 I write articles on [https://dev.to/freddthink](https://dev.to/freddthink)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpwol" alt="fredpwol" /> </p>
