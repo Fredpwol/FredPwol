@@ -3,5 +3,5 @@
 <h3 align="center"> I Build Software Application and Systems </h3>
 
 - 📫 Send me a email at **fredpwol@gmail.com** to discuss I'm open to collabrate or hire.
-- 📝 I write articles on [https://dev.to/freddthink](https://dev.to/freddthink)
+- 📝 I write articles on [https://fredpwol.github.io/](https://fredpwol.github.io/)
 
